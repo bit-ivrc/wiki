@@ -1,5 +1,5 @@
 # WIKI
 Welcome to the public wiki of IVRC. 
-Please check our [wiki]().
+See our [wiki]() for more information.
 
 
